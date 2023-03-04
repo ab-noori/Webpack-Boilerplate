@@ -4,7 +4,7 @@
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="images/project-image.png" alt="logo" width="500"  height="auto" />
+  <img src="./src/assets/project-image.png" alt="logo" width="500"  height="auto" />
   <br/>
 
   <h3><b></b></h3>
@@ -30,7 +30,7 @@
 
 | Desktop Veiw Representation|
 |---------------------------------------|
-|![screenshot](images/project-image.png)|
+|![screenshot](./src/assets/project-image.png)|
 
 <!-- TABLE OF CONTENTS -->
 
