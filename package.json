@@ -4,7 +4,7 @@
   "description": "<a name=\"readme-top\"></a>",
   "main": "index.js",
   "scripts": {
-    "build": "webpack --mode production"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
